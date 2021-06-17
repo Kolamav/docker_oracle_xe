@@ -1,2 +1,2 @@
-# docker_orecle_xe
+# docker_oracle_xe
 For  oracle docker container for lab 
